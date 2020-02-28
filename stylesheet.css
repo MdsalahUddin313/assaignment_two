@@ -1,0 +1,74 @@
+.macbookpro{
+    padding: 35px;
+    margin-top: 5px;
+}
+.button{
+padding: 15px 20px;
+box-sizing: border-box;
+background-image: linear-gradient(to bottom ,black,rgb(46, 45, 45));
+color: bisque;
+width:35%;
+text-align: center;
+border-radius: 5px;
+}
+.button:hover{
+    padding: 18px 23px;
+    box-sizing: border-box;
+    background-image: linear-gradient(to bottom ,rgb(75, 79, 83),black);
+    color: bisque;
+    width:35%;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.edit-card{
+       text-align: center;
+       box-shadow: 5px 5px 12px 0px gray;
+       border-radius: 5px;
+    }
+
+    .button2{
+        padding: 15px 20px;
+        
+        background-image: linear-gradient(to bottom ,black,rgb(46, 45, 45));
+        color: bisque;
+        width:50%;
+        text-align: center;
+        border-radius: 5px; 
+        font-size:15px;   
+       
+        }
+        .button2:hover{
+            padding: 18px 23px;
+            background-image: linear-gradient(to bottom ,rgb(75, 79, 83),black);
+            color: bisque;
+            width:50%;
+            text-align: center;
+            border-radius: 5px;
+ }    
+ h2{
+     margin-top: 50px;
+    text-align: center;
+ }
+ .last_part{
+    width:100%;
+ }
+ .collumn2{
+     margin-bottom: 30px;
+     box-shadow: 2px 2px 10px 0px gray;
+     text-align: center;
+    }
+ .collumn1{
+    
+    margin-bottom: 100px;
+    text-align: center;
+    box-shadow: 2px 2px 10px 0px gray;
+}
+#seeall{
+    color: rgb(219, 188, 9);
+    font-size: 15px;
+    text-decoration: none;
+}
+section{
+    margin-bottom: 95px;
+}
