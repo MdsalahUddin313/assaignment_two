@@ -33,6 +33,7 @@ border-radius: 5px;
         background-image: linear-gradient(to bottom ,black,rgb(46, 45, 45));
         color: bisque;
         width:50%;
+        margin: auto;
         text-align: center;
         border-radius: 5px; 
         font-size:15px;   
@@ -78,4 +79,8 @@ section{
 }
 #column2{
     margin-top: 45px;
+}
+h3{
+    background-image: linear-gradient(to right,rgb(204, 191, 7),rgb(207, 127, 7));
+    text-align: center;
 }
